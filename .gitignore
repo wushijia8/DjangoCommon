@@ -1,0 +1,10 @@
+.idea/
+**/*.DS_Stroe
+**/*.pyc
+**/migrations/
+*.log
+*.ini
+*.sh
+static/images/
+static/upload/
+static/media/
