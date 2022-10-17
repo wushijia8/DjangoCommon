@@ -8,3 +8,4 @@
 static/images/
 static/upload/
 static/media/
+db.sqlite3
